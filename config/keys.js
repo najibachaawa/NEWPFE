@@ -2,8 +2,8 @@ module.exports = {
   mongoURI: "mongodb://localhost:27017/crmpfe",
   secretOrKey: "changeme", 
   SENDGRID_API_KEY:"apikey", 
-  SMTP_HOST: "localhost", 
-  SMTP_PORT: 25,
+  //SMTP_HOST: "localhost", 
+  //SMTP_PORT: 50,
   SMTP_SSL: false, // upgrade later with STARTTLS
   SMTP_USER:"anonymous", 
   SMTP_PASS: "anonymous", 
